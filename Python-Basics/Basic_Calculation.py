@@ -5,3 +5,6 @@ sub = x-y
 mul = x*y
 div = x/y
 print(sum)
+print(sub)
+print(mul)
+print(div)
